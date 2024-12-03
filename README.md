@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning jak adminowac
 - 💞️ I’m looking to collaborate with jopkiewicz <33
 - 📫 How to reach me - zawolaj jopka
-- 😄 Pronouns: skibidi/toilet
-- ⚡ Fun fact: Jestem adam Jopkiewicz
+- 😄 Pronouns: admin/jopkiewicz
+- ⚡ Fun fact: Jestem admim Jopkiewicz
 
 <!---
 adminjopkiewicz/adminjopkiewicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
